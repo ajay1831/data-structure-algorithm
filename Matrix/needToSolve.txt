@@ -1,0 +1,6 @@
+Need to solve:
+1. print unique rows in a boolean matrix
+2. Inplace (Fixed space) M x N size matrix transpose | Updated
+3. Strassen’s Matrix Multiplication
+4. Given an n x n square matrix, find sum of all sub-squares of size k x k
+5. Find a common element in all rows of a given row-wise sorted matrix
